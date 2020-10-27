@@ -1,3 +1,5 @@
+package cwiczenia1
+
 object Scala_Options{
   def main(args: Array[String]): Unit ={
     val products = Map("MARGHERITA" -> 31.99, "CAPRICCIOSA" -> 37.45, "PEPPERONI " -> 36.65,

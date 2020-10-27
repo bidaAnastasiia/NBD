@@ -1,4 +1,4 @@
-import sun.security.util.Length
+package cwiczenia1
 
 import scala.annotation.tailrec
 

@@ -1,3 +1,5 @@
+package cwiczenia1
+
 object Scala_Map
 {
   def main(args: Array[String])

@@ -1,3 +1,5 @@
+package cwiczenia1
+
 object Scala_Task10{
   def main(args: Array[String]): Unit ={
     val list = List(-9.6,-4,-5.067,-5,-8,0,13.86,2,37.4,40,5.607,6)

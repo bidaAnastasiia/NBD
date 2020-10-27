@@ -1,3 +1,5 @@
+package cwiczenia1
+
 object Scala_Touples
 {
   def main(args: Array[String])

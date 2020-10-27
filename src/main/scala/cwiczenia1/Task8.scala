@@ -1,3 +1,5 @@
+package cwiczenia1
+
 import scala.annotation.tailrec
 
 object Scala_Task8{
